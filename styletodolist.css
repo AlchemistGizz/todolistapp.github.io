@@ -11,7 +11,7 @@ img {
     height: auto;
 }
  /*On screens with a maximum-width of 500px, set the box to have a width of 100%.*/
- @media screen and (max-width:500px)
+ @media screen and (max-width:400px)
    { [ class*= "col-"] {width:100%;}   }  
  
    
